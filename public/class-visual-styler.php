@@ -49,7 +49,7 @@ class Visual_Styler {
 	 *
 	 * @var      string
 	 */
-	protected $plugin_slug = 'wpcustomizerpro';
+	protected $plugin_slug = 'wpcustomizer-pro';
 
 	/**
 	 * Instance of this class.
